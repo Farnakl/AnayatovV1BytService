@@ -73,10 +73,19 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Classes\ConnectionDataBase.cs" />
+    <Compile Include="Classes\Navigation.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\AutorizationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\DatagridsPages\RequestsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\a.Context.cs">
@@ -114,6 +123,12 @@
     </Compile>
     <Compile Include="Models\Users.cs">
       <DependentUpon>a.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AutorizationPage.xaml.cs">
+      <DependentUpon>AutorizationPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DatagridsPages\RequestsPage.xaml.cs">
+      <DependentUpon>RequestsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -159,9 +174,11 @@
       <DependentUpon>a.edmx</DependentUpon>
       <LastGenOutput>a.cs</LastGenOutput>
     </Content>
+    <Resource Include="Resource\213.PNG" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

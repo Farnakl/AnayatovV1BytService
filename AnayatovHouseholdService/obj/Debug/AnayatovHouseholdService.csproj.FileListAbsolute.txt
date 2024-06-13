@@ -20,3 +20,7 @@ C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdS
 C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\Anayatov.2329A714.Up2Date
 C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\AnayatovHouseholdService.exe
 C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\AnayatovHouseholdService.pdb
+C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\Pages\AutorizationPage.g.cs
+C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\Pages\DatagridsPages\RequestsPage.g.cs
+C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\Pages\AutorizationPage.baml
+C:\Users\Akram Anayatov\source\repos\AnayatovHouseholdService\AnayatovHouseholdService\obj\Debug\Pages\DatagridsPages\RequestsPage.baml

@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\classes\\connectiondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\classes\\connectiondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\pages\\autorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\pages\\autorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\models\\a.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\models\\a.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\pages\\datagridspages\\requestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\pages\\datagridspages\\requestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\pages\\datagridspages\\requestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\pages\\datagridspages\\requestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\classes\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\classes\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\classes\\connectiondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\classes\\connectiondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\anayatovhouseholdservice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\anayatovhouseholdservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\pages\\autorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\pages\\autorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|c:\\users\\akram anayatov\\source\\repos\\anayatovhouseholdservice\\anayatovhouseholdservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\anayatovhouseholdservice\\models\\a.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E18805C0-6DC2-4EAF-831A-0A3E43EF72B8}|AnayatovHouseholdService\\AnayatovHouseholdService.csproj|solutionrelative:anayatovhouseholdservice\\models\\a.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +50,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AnayatovHouseholdService\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:13:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml",
+              "RelativeToolTip": "AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:49:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml.cs",
+              "RelativeToolTip": "AnayatovHouseholdService\\Pages\\DatagridsPages\\RequestsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:53:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\AutorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\Pages\\AutorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\AutorizationPage.xaml.cs",
+              "RelativeToolTip": "AnayatovHouseholdService\\Pages\\AutorizationPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:00:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml",
+              "RelativeToolTip": "AnayatovHouseholdService\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T11:13:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\AutorizationPage.xaml",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\Pages\\AutorizationPage.xaml",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Pages\\AutorizationPage.xaml",
+              "RelativeToolTip": "AnayatovHouseholdService\\Pages\\AutorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T14:55:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ConnectionDataBase.cs",
               "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Classes\\ConnectionDataBase.cs",
               "RelativeDocumentMoniker": "AnayatovHouseholdService\\Classes\\ConnectionDataBase.cs",
@@ -43,39 +142,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "a.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Models\\a.edmx",
               "RelativeDocumentMoniker": "AnayatovHouseholdService\\Models\\a.edmx",
               "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Models\\a.edmx [Diagram1]",
               "RelativeToolTip": "AnayatovHouseholdService\\Models\\a.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-12T11:40:50.467Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-06-12T11:40:50.467Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AnayatovHouseholdService\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml",
-              "RelativeToolTip": "AnayatovHouseholdService\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T11:13:24.607Z",
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Classes\\Navigation.cs",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\Classes\\Navigation.cs",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\Classes\\Navigation.cs",
+              "RelativeToolTip": "AnayatovHouseholdService\\Classes\\Navigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:15:13.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AnayatovHouseholdService\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\MainWindow.xaml.cs",
-              "RelativeToolTip": "AnayatovHouseholdService\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:13:23.901Z",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\packages.config",
+              "RelativeDocumentMoniker": "AnayatovHouseholdService\\packages.config",
+              "ToolTip": "C:\\Users\\Akram Anayatov\\source\\repos\\AnayatovHouseholdService\\AnayatovHouseholdService\\packages.config",
+              "RelativeToolTip": "AnayatovHouseholdService\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T14:54:48.039Z",
               "EditorCaption": ""
             }
           ]

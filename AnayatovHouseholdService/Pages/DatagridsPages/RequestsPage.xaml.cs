@@ -1,6 +1,5 @@
 ﻿using AnayatovHouseholdService.Classes;
-using AnayatovHouseholdService.Pages;
-using AnayatovHouseholdService.Pages.DatagridsPages;
+using AnayatovHouseholdService.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,24 +15,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace AnayatovHouseholdService
+namespace AnayatovHouseholdService.Pages.DatagridsPages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для RequestsPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class RequestsPage : Page
     {
-        public MainWindow()
+        public RequestsPage()
         {
             InitializeComponent();
-            Navigation.frameNav = MainFraim;
 
-            MainFraim.Navigate(new AutorizationPage());
-        }
-
-        private void BtnBack_Click(object sender, RoutedEventArgs e)
-        {
-            Navigation.frameNav.GoBack();
+            DGUsers.ItemsSource = ConnectionDataBase.connection.Requests.Where(r => r.clientID == Navigation.User.userID).ToList();
         }
     }
 }

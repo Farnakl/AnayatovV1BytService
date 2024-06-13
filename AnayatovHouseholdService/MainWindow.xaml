@@ -5,8 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AnayatovHouseholdService"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="{Binding ElementName=MainFrame, Path=Content.Title}" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
-        <DataGrid Name="DGUsers"></DataGrid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <Image  Source="\Resource\213.PNG" />
+        </StackPanel>
+            <Button Content="Назад" Name="BtnBack" HorizontalAlignment="Right"  
+                    Click="BtnBack_Click" Height="25" Width="90"/>
+            
+            
+        <Frame NavigationUIVisibility="Hidden" Name="MainFraim" Grid.Row="1"></Frame>
+
     </Grid>
 </Window>
